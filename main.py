@@ -1,3 +1,4 @@
+import init_django_orm  # noqa: F401
 import json
 from pathlib import Path
 
